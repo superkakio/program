@@ -13,25 +13,25 @@ http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LALIGA TV 6" ,M. LaLiga 6
 http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga MultiAudio
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga MultiAudio
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" ,DAZN LaLiga 2 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga 3 MultiAudio
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga 3 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga 4 MultiAudio
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga 4 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga 5 MultiAudio
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga 5 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,Dazn liga F 1
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,Dazn liga F 1
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" ,Dazn liga f 2
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,Dazn liga f 3
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,Dazn liga f 3
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" ,Dazn liga f 4
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" ,Dazn liga f 4
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M.L. Campeones MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
@@ -157,7 +157,7 @@ http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="720" tvg-id="M+ LALIGA TV 2 HD" ,M. LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga
+#EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga 2 HD" ,DAZN LaLiga 2 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
