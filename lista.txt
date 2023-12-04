@@ -41,13 +41,13 @@ http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 5 HD" ,DAZN LaLiga 5 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA1" ,Dazn liga Femenina 1
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA 1" ,Dazn liga Femenina 1
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA2" ,Dazn liga Femenina 2
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA 2" ,Dazn liga Femenina 2
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA3" ,Dazn liga Femenina 3
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA 3" ,Dazn liga Femenina 3
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA4" ,Dazn liga Femenina 4
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA 4" ,Dazn liga Femenina 4
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M.L. Campeones MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
