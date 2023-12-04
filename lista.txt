@@ -41,13 +41,13 @@ http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 5 HD" ,DAZN LaLiga 5 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA HD" ,Dazn liga F 1
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA1" ,Dazn liga Femenina 1
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 2 HD" ,Dazn liga f 2
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA2" ,Dazn liga Femenina 2
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 3 HD" ,Dazn liga f 3
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA3" ,Dazn liga Femenina 3
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 4 HD" ,Dazn liga f 4
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA FEMENINA4" ,Dazn liga Femenina 4
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M.L. Campeones MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
@@ -69,9 +69,9 @@ http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 9" ,M.L. Campeones 9 SD
 http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 10 HD" ,M.L. Campeones 10 SD
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 10" ,M.L. Campeones 10 SD
 http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 11 HD" ,M.L. Campeones 11 SD
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 11" ,M.L. Campeones 11 SD
 http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 2 HD" ,M.L. Campeones 12 SD
 http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
@@ -107,11 +107,11 @@ http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
 http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ DEPORTES 6" ,M. Deportes 6
 http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ DEPORTES HD" ,M. Deportes 7
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ DEPORTES 7" ,M. Deportes 7
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" ,M. Golf
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" ,M. Golf2
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF 2 HD" ,M. Golf 2
 http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LALIGA TV BAR" ,La Liga BAR
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
