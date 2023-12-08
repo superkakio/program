@@ -13,22 +13,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=aa8f826da70e27a26b29c7b32402f17e8
 http://127.0.0.1:6878/ace/getstream?content_id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LALIGA TV 6" ,M. LaLiga 6
 http://127.0.0.1:6878/ace/getstream?content_id=c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION HD" ,LaLiga Hypermotion
-http://127.0.0.1:6878/ace/getstream?content_id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 2 HD" ,LaLiga Hypermotion 2
-http://127.0.0.1:6878/ace/getstream?content_id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 3" ,LaLiga Hypermotion 3
-http://127.0.0.1:6878/ace/getstream?content_id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 4" ,LaLiga Hypermotion 4
-http://127.0.0.1:6878/ace/getstream?content_id=2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 5" ,LaLiga Hypermotion 5
-http://127.0.0.1:6878/ace/getstream?content_id=a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 6" ,LaLiga Hypermotion 6 
-http://127.0.0.1:6878/ace/getstream?content_id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 7" ,LaLiga Hypermotion 7 
-http://127.0.0.1:6878/ace/getstream?content_id=446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGA TV HYPERMOTION 8" ,LaLiga Hypermotion 8
-http://127.0.0.1:6878/ace/getstream?content_id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA HD" ,DAZN LaLiga MultiAudio
 http://127.0.0.1:6878/ace/getstream?content_id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA HD" ,DAZN LaLiga MultiAudio
@@ -69,6 +53,22 @@ http://127.0.0.1:6878/ace/getstream?content_id=e737c681a92a4328703761c6ed9d8a951
 http://127.0.0.1:6878/ace/getstream?content_id=33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 13" ,M.L. Campeones 13
 http://127.0.0.1:6878/ace/getstream?content_id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION HD" ,LaLiga Hypermotion
+http://127.0.0.1:6878/ace/getstream?content_id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 2 HD" ,LaLiga Hypermotion 2
+http://127.0.0.1:6878/ace/getstream?content_id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 3" ,LaLiga Hypermotion 3
+http://127.0.0.1:6878/ace/getstream?content_id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 4" ,LaLiga Hypermotion 4
+http://127.0.0.1:6878/ace/getstream?content_id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 5" ,LaLiga Hypermotion 5
+http://127.0.0.1:6878/ace/getstream?content_id=a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 6" ,LaLiga Hypermotion 6 
+http://127.0.0.1:6878/ace/getstream?content_id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 7" ,LaLiga Hypermotion 7 
+http://127.0.0.1:6878/ace/getstream?content_id=446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA TV HYPERMOTION 8" ,LaLiga Hypermotion 8
+http://127.0.0.1:6878/ace/getstream?content_id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="DAZN LaLiga Femenina" tvg-id="DAZN LALIGA FEMENINA 1" ,Dazn liga Femenina 1
 http://127.0.0.1:6878/ace/getstream?content_id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="DAZN LaLiga Femenina" tvg-id="DAZN LALIGA FEMENINA 2" ,Dazn liga Femenina 2
