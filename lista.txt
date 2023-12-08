@@ -43,7 +43,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=a0978a100de9a307c12d395d9b2f4142d
 http://127.0.0.1:6878/ace/getstream?content_id=5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 8" ,M.L. Campeones 8
 http://127.0.0.1:6878/ace/getstream?content_id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M.L. Campeones 9
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 9" ,M.L. Campeones 9
 http://127.0.0.1:6878/ace/getstream?content_id=7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES 10" ,M.L. Campeones 10
 http://127.0.0.1:6878/ace/getstream?content_id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
