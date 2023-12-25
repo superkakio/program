@@ -163,12 +163,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=e8eec35f4662be1af96963245bfa88fb7
 http://127.0.0.1:6878/ace/getstream?content_id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" ,Telecinco
 http://127.0.0.1:6878/ace/getstream?content_id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title="Otros" tvg-id="SPORT TV 1 " ,Sport TV 1
-http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 group-title="Otros" tvg-id="SPORT TV 2 " ,Sport TV 2
-http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 group-title="Otros" tvg-id="SPORT TV 3 " ,Sport TV 3
-http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros" tvg-id="F1 TV " ,F1 TV
 http://127.0.0.1:6878/ace/getstream?content_id=7088d4b32f4a7c0326765f13764417d038a4524d
 #EXTINF:-1 group-title="Otros" tvg-id="REAL MADRID TV" ,Real Madrid TV
@@ -427,6 +421,12 @@ http://127.0.0.1:6878/ace/getstream?content_id=8fb7f8107213a9020f298c8d0068ea86d
 http://127.0.0.1:6878/ace/getstream?content_id=ade7437d52002e864f851c4de016923dcd6d2548
 #EXTINF:-1 group-title="Polonia" tvg-id="MOTOWIZJA[PL]" ,Motowizja[PL]
 http://127.0.0.1:6878/ace/getstream?content_id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 [PT]" ,Sport Tv 1 [PT]
+http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 [PT]" ,Sport Tv 2 [PT]
+http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 [PT]" ,Sport Tv 3 [PT]
+http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 1 [PT]" ,Eleven Sports 1 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 2 [PT]" ,Eleven Sports 2 [PT]
@@ -439,13 +439,13 @@ http://127.0.0.1:6878/ace/getstream?content_id=0f32c0131a2d9444996410801f4e18b04
 http://127.0.0.1:6878/ace/getstream?content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 6 [PT]" ,Eleven Sports 6 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 [PT]" ,Sport TV 1 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 [PT]" ,Sport Tv 1 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=c95422bc904378be0b035eba721d5e6a004f7d79
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 [PT]" ,Sport TV 2 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 [PT]" ,Sport Tv 2 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848fe36541
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 [PT]" ,Sport TV 3 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 [PT]" ,Sport Tv 3 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 4 [PT]" ,Sport TV 4 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 4 [PT]" ,Sport Tv 4 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
 #EXTINF:-1 group-title="Reino Unido" tvg-id="BBC ONE [UK]" ,BBC ONE [UK]
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
