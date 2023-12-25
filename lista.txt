@@ -175,28 +175,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=7088d4b32f4a7c0326765f13764417d03
 http://127.0.0.1:6878/ace/getstream?content_id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 #EXTINF:-1 group-title="Otros" tvg-id="EL TORO TV" ,El Toro TV
 http://127.0.0.1:6878/ace/getstream?content_id=f763ab71f6f646e6c993f37e237be97baf2143ef
-#EXTINF:-1 group-title="Otros" tvg-id="BBC ONE [UK]" ,BBC ONE [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
-#EXTINF:-1 group-title="Otros" tvg-id="SKY SPORTS F1[UK]" ,Sky Sports F1[UK]
-http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
-#EXTINF:-1 group-title="Otros" tvg-id="SKY SPORTS MAIN EVENT [UK]" ,Sky Sports Main Event [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Otros" tvg-id="SKY SPORTS PREMIER LEAGUE[UK]" ,Sky Sports Premier League[UK]
-http://127.0.0.1:6878/ace/getstream?content_id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Otros" tvg-id="SKY SPORTS FOOTBALL [UK]" ,Sky Sports Football [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Otros" tvg-id="SKY SPORTS ARENA[UK]" ,Sky Sports Arena[UK]
-http://127.0.0.1:6878/ace/getstream?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Otros" tvg-id="SKY SPORTS CRICKET [UK]" ,Sky Sports Cricket [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 group-title="Otros" tvg-id="BT SPORT 1 [UK]" ,BT Sport 1 [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Otros" tvg-id="BT SPORT 2 [UK]" ,BT Sport 2 [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Otros" tvg-id="BT SPORT 3 [UK]" ,BT Sport 3 [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Otros" tvg-id="BT SPORT 4 [UK]" ,BT Sport 4 [UK]
-http://127.0.0.1:6878/ace/getstream?content_id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Otros" tvg-id="F1 TV " ,F1 TV
 http://127.0.0.1:6878/ace/getstream?content_id=6f3b2c65308024a24c4c0fa43837adc31ffb354d
 #EXTINF:-1 group-title="Otros" tvg-id="F1 TV " ,F1 TV
@@ -469,6 +447,28 @@ http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 4 [PT]" ,Sport TV 4 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BBC ONE [UK]" ,BBC ONE [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SKY SPORTS F1[UK]" ,Sky Sports F1[UK]
+http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SKY SPORTS MAIN EVENT [UK]" ,Sky Sports Main Event [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SKY SPORTS PREMIER LEAGUE[UK]" ,Sky Sports Premier League[UK]
+http://127.0.0.1:6878/ace/getstream?content_id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SKY SPORTS FOOTBALL [UK]" ,Sky Sports Football [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SKY SPORTS ARENA[UK]" ,Sky Sports Arena[UK]
+http://127.0.0.1:6878/ace/getstream?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SKY SPORTS CRICKET [UK]" ,Sky Sports Cricket [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BT SPORT 1 [UK]" ,BT Sport 1 [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BT SPORT 2 [UK]" ,BT Sport 2 [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BT SPORT 3 [UK]" ,BT Sport 3 [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BT SPORT 4 [UK]" ,BT Sport 4 [UK]
+http://127.0.0.1:6878/ace/getstream?content_id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Rumania" tvg-id="DIGI SPORT 1[RM]" ,Digi Sport 1[RM]
 http://127.0.0.1:6878/ace/getstream?content_id=51cee9d0b29dbd9104e9a3971fd2569419eab159
 #EXTINF:-1 group-title="Rumania" tvg-id="DIGI SPORT 1[RM]" ,Digi Sport 1[RM]
