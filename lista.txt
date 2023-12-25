@@ -211,75 +211,75 @@ http://127.0.0.1:6878/ace/getstream?content_id=e3362507e7c732b9461bd7bdc74bd054c
 http://127.0.0.1:6878/ace/getstream?content_id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 group-title="720" tvg-id="M+ LIGA DE CAMPEONES HD" ,M.L. Campeones MultiAudio
 http://127.0.0.1:6878/ace/getstream?content_id=6b56c1de436327b49e429a702e81e9269630e37a
-#EXTINF:-1 group-title="Alemania" tvg-id="DAZN 1 HD" ,DAZN 1 Bar [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="DAZN 1 HD" ,DAZN 1 Bar GER
 http://127.0.0.1:6878/ace/getstream?content_id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="Alemania" tvg-id="DAZN 2 HD" ,DAZN 2 Bar [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="DAZN 2 HD" ,DAZN 2 Bar GER
 http://127.0.0.1:6878/ace/getstream?content_id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="Alemania" tvg-id="ZDF HD [DE]" ,ZDF HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ZDF HD GER" ,ZDF HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=c71fb593810ce837545e8d8b384e50a42c35a316
-#EXTINF:-1 group-title="Alemania" tvg-id="ATV HD [DE]" ,ATV HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ATV HD GER" ,ATV HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=7d50d90895f44e97039eca21ae6bc17172acc9ef
-#EXTINF:-1 group-title="Alemania" tvg-id="ORF 1 HD [DE]" ,ORF 1 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ORF 1 HD GER" ,ORF 1 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=c9d6412050226de0968cea19a383b50dc1966363
-#EXTINF:-1 group-title="Alemania" tvg-id="ORF 2 HD [DE]" ,ORF 2 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ORF 2 HD GER" ,ORF 2 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
-#EXTINF:-1 group-title="Alemania" tvg-id="ORF 3 HD [DE]" ,ORF 3 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ORF 3 HD GER" ,ORF 3 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=41ac7892b8fde95d5110d83d7324044145c7f86a
-#EXTINF:-1 group-title="Alemania" tvg-id="ORF SPORT+ HD [DE]" ,ORF Sport+ HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ORF SPORT+ HD GER" ,ORF Sport+ HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 group-title="Alemania" tvg-id="SKYSPORT F1 HD [DE]" ,SkySport F1 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="SKYSPORT F1 HD GER" ,SkySport F1 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="Alemania" tvg-id="SPORT DIGITAL [DE]" ,Sport Digital [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="SPORT DIGITAL GER" ,Sport Digital GER
 http://127.0.0.1:6878/ace/getstream?content_id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 group-title="Alemania" tvg-id="SPORT1+HD [DE]" ,Sport1+HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="SPORT1+HD GER" ,Sport1+HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 group-title="Alemania" tvg-id="SERVUS TV HD [DE]" ,Servus TV HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="SERVUS TV HD GER" ,Servus TV HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 group-title="Alemania" tvg-id="MOTORVISION TV [DE]" ,Motorvision TV [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MOTORVISION TV GER" ,Motorvision TV GER
 http://127.0.0.1:6878/ace/getstream?content_id=acd7e3ae185a376e6596e60a414bebbf3321b37f
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 1 HD [DE]" ,Magenta Sport 1 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 1 HD GER" ,Magenta Sport 1 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 2 HD [DE]" ,Magenta Sport 2 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 2 HD GER" ,Magenta Sport 2 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 3 HD [DE]" ,Magenta Sport 3 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 3 HD GER" ,Magenta Sport 3 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 4 HD [DE]" ,Magenta Sport 4 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 4 HD GER" ,Magenta Sport 4 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 5 HD [DE]" ,Magenta Sport 5 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 5 HD GER" ,Magenta Sport 5 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 6 HD [DE]" ,Magenta Sport 6 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 6 HD GER" ,Magenta Sport 6 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 7 HD [DE]" ,Magenta Sport 7 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 7 HD GER" ,Magenta Sport 7 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=ac839cda9709255c21a98af455731f037e77a9e4
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 8 HD [DE]" ,Magenta Sport 8 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 8 HD GER" ,Magenta Sport 8 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=11c5823d4196a90b509f03df1fe78e13cfbbb175
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 9 HD [DE]" ,Magenta Sport 9 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 9 HD GER" ,Magenta Sport 9 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=86495fe134ff065d5217497babe6be33f81d37d1
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 10 HD [DE]" ,Magenta Sport 10 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 10 HD GER" ,Magenta Sport 10 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 11 HD [DE]" ,Magenta Sport 11 HD [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MAGENTA SPORT 11 HD GER" ,Magenta Sport 11 HD GER
 http://127.0.0.1:6878/ace/getstream?content_id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT 1 [DE]" ,Eurosport 1 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT 1 GER" ,Eurosport 1 GER
 http://127.0.0.1:6878/ace/getstream?content_id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT 2 [DE]" ,Eurosport 2 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT 2 GER" ,Eurosport 2 GER
 http://127.0.0.1:6878/ace/getstream?content_id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 1 [DE]" ,Eurosport360 1 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 1 GER" ,Eurosport360 1 GER
 http://127.0.0.1:6878/ace/getstream?content_id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 2 [DE]" ,Eurosport360 2 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 2 GER" ,Eurosport360 2 GER
 http://127.0.0.1:6878/ace/getstream?content_id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 3 [DE]" ,Eurosport360 3 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 3 GER" ,Eurosport360 3 GER
 http://127.0.0.1:6878/ace/getstream?content_id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 4 [DE]" ,Eurosport360 4 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 4 GER" ,Eurosport360 4 GER
 http://127.0.0.1:6878/ace/getstream?content_id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 5 [DE]" ,Eurosport360 5 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 5 GER" ,Eurosport360 5 GER
 http://127.0.0.1:6878/ace/getstream?content_id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 6 [DE]" ,Eurosport360 6 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 6 GER" ,Eurosport360 6 GER
 http://127.0.0.1:6878/ace/getstream?content_id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 7 [DE]" ,Eurosport360 7 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 7 GER" ,Eurosport360 7 GER
 http://127.0.0.1:6878/ace/getstream?content_id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 8 [DE]" ,Eurosport360 8 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 8 GER" ,Eurosport360 8 GER
 http://127.0.0.1:6878/ace/getstream?content_id=8f4f572005ca2557743474087aa622693ba9b5fe
-#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 9 [DE]" ,Eurosport360 9 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="EUROSPORT360 9 GER" ,Eurosport360 9 GER
 http://127.0.0.1:6878/ace/getstream?content_id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 #EXTINF:-1 group-title="Brasil" tvg-id="ALL SPORTS [BR]" ,ALL Sports [BR]
 http://127.0.0.1:6878/ace/getstream?content_id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
@@ -309,25 +309,25 @@ http://127.0.0.1:6878/ace/getstream?content_id=9c3feb380cd9bcf9dcb7a9454ca8eb796
 http://127.0.0.1:6878/ace/getstream?content_id=3b1608a6d9d4d4dff4ec660006ef1ec2f4e809ac
 #EXTINF:-1 group-title="Dinamarca" tvg-id="TV2 SPORT X [DK]" ,TV2 Sport X [DK]
 http://127.0.0.1:6878/ace/getstream?content_id=9aa6e0e809fd88869cb7767b513cda5c422e310b
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="BEIN SPORTS Ñ [US]" ,beIN SPORTS Ñ [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="BEIN SPORTS Ñ US" ,beIN SPORTS Ñ US
 http://127.0.0.1:6878/ace/getstream?content_id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN HD[US]" ,ESPN HD[US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN HDUS" ,ESPN HDUS
 http://127.0.0.1:6878/ace/getstream?content_id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN 2 HD[US]" ,ESPN 2 HD[US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN 2 HDUS" ,ESPN 2 HDUS
 http://127.0.0.1:6878/ace/getstream?content_id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="FOX SPORTS 1 HD [US]" ,FOX Sports 1 HD [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="FOX SPORTS 1 HD US" ,FOX Sports 1 HD US
 http://127.0.0.1:6878/ace/getstream?content_id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="FOX SPORTS 2 HD [US]" ,FOX Sports 2 HD [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="FOX SPORTS 2 HD US" ,FOX Sports 2 HD US
 http://127.0.0.1:6878/ace/getstream?content_id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="BEIN SPORTS XTRA Ñ [US]" ,beIN Sports Xtra Ñ [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="BEIN SPORTS XTRA Ñ US" ,beIN Sports Xtra Ñ US
 http://127.0.0.1:6878/ace/getstream?content_id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="NBA TV [US]" ,NBA TV [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="NBA TV US" ,NBA TV US
 http://127.0.0.1:6878/ace/getstream?content_id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 1 [FR]" ,beIN Sports 1 [FR]
+#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 1 FRA" ,beIN Sports 1 FRA
 http://127.0.0.1:6878/ace/getstream?content_id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 2 [FR]" ,beIN Sports 2 [FR]
+#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 2 FRA" ,beIN Sports 2 FRA
 http://127.0.0.1:6878/ace/getstream?content_id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 3 [FR]" ,beIN Sports 3 [FR]
+#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 3 FRA" ,beIN Sports 3 FRA
 http://127.0.0.1:6878/ace/getstream?content_id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="Holanda" tvg-id="ESPN [NL]" ,ESPN [NL]
 http://127.0.0.1:6878/ace/getstream?content_id=e2044fd44478794ebfe721deb060d149507f1348
@@ -421,31 +421,31 @@ http://127.0.0.1:6878/ace/getstream?content_id=8fb7f8107213a9020f298c8d0068ea86d
 http://127.0.0.1:6878/ace/getstream?content_id=ade7437d52002e864f851c4de016923dcd6d2548
 #EXTINF:-1 group-title="Polonia" tvg-id="MOTOWIZJA[PL]" ,Motowizja[PL]
 http://127.0.0.1:6878/ace/getstream?content_id=8ef4e74336a0114d6def70de9d15cc4817d2f350
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 [PT]" ,Sport Tv 1 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 POR" ,Sport Tv 1 POR
 http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 [PT]" ,Sport Tv 2 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 POR" ,Sport Tv 2 POR
 http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 [PT]" ,Sport Tv 3 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 POR" ,Sport Tv 3 POR
 http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 1 [PT]" ,Eleven Sports 1 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 1 POR" ,Eleven Sports 1 POR
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 2 [PT]" ,Eleven Sports 2 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 2 POR" ,Eleven Sports 2 POR
 http://127.0.0.1:6878/ace/getstream?content_id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 3 [PT]" ,Eleven Sports 3 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 3 POR" ,Eleven Sports 3 POR
 http://127.0.0.1:6878/ace/getstream?content_id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 4 [PT]" ,Eleven Sports 4 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 4 POR" ,Eleven Sports 4 POR
 http://127.0.0.1:6878/ace/getstream?content_id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 5 [PT]" ,Eleven Sports 5 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 5 POR" ,Eleven Sports 5 POR
 http://127.0.0.1:6878/ace/getstream?content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 6 [PT]" ,Eleven Sports 6 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN SPORTS 6 POR" ,Eleven Sports 6 POR
 http://127.0.0.1:6878/ace/getstream?content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 [PT]" ,Sport Tv 1 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 1 POR" ,Sport Tv 1 POR
 http://127.0.0.1:6878/ace/getstream?content_id=c95422bc904378be0b035eba721d5e6a004f7d79
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 [PT]" ,Sport Tv 2 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 2 POR" ,Sport Tv 2 POR
 http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848fe36541
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 [PT]" ,Sport Tv 3 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 3 POR" ,Sport Tv 3 POR
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 4 [PT]" ,Sport Tv 4 [PT]
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT TV 4 POR" ,Sport Tv 4 POR
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
 #EXTINF:-1 group-title="Reino Unido" tvg-id="BBC ONE [UK]" ,BBC ONE [UK]
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
