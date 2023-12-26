@@ -31,47 +31,55 @@ http://127.0.0.1:6878/ace/getstream?content_id=99e544cddbee13798e854c1009ee7d1a9
 http://127.0.0.1:6878/ace/getstream?content_id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 2 HD" ,DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?content_id=93d663e92a93845b11c9831885646fa39ba1ed66
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES " ,M.L. Campeones MultiAudio
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES " ,M.L. Campeones MultiAudio
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES " ,M.L. Campeones
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 2 " ,M.L. Campeones 2
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
+http://127.0.0.1:6878/ace/getstream?content_id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 3 " ,M.L. Campeones 3
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
+http://127.0.0.1:6878/ace/getstream?content_id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 4 " ,M.L. Campeones 4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
+http://127.0.0.1:6878/ace/getstream?content_id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 5 " ,M.L. Campeones 5
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 6 " ,M.L. Campeones 6
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 7 " ,M.L. Campeones 7
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 8 " ,M.L. Campeones 8
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 9 SD" ,M.L. Campeones 9
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 10 SD" ,M.L. Campeones 10
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 11 SD" ,M.L. Campeones 11
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=e737c681a92a4328703761c6ed9d8a951655f3e4
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 12 SD" ,M.L. Campeones 12
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 13 SD" ,M.L. Campeones 13
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=60296c246e3596f334903fefd48cfaa724a5053b
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 4 SD" ,M.L. Campeones 4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
+http://127.0.0.1:6878/ace/getstream?content_id=6b56c1de436327b49e429a702e81e9269630e37a
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 5 SD" ,M.L. Campeones 5
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 6 SD" ,M.L. Campeones 6
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 7 SD" ,M.L. Campeones 7
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=d84a90adb6998083403f610ab3fae340b5711b1e
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 8 SD" ,M.L. Campeones 8
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=1a4b41c02e116ed19a505551a9caa79f54c027f7
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M.L. CAMPEONES 12 SD" ,M.L. Campeones 12
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ LIGA DE CAMPEONES HD" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=bb50397b3f49167eed95264005fae851baa7e3ee
 #EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LALIGA HYPERMOTION " ,LaLiga Hypermotion
 http://127.0.0.1:6878/ace/getstream?content_id=4c46585214b23b1d802ef2168060c7649a3894cf
@@ -193,12 +201,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=06b367c22394a1358c9cefa0cb5d0b64b
 http://127.0.0.1:6878/ace/getstream?content_id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 group-title="720" tvg-id="M. DEPORTES " ,M. Deportes
 http://127.0.0.1:6878/ace/getstream?content_id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title="720" tvg-id="M.L. CAMPEONES " ,M.L. Campeones
-http://127.0.0.1:6878/ace/getstream?content_id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="720" tvg-id="M.L. CAMPEONES 2 " ,M.L. Campeones 2
-http://127.0.0.1:6878/ace/getstream?content_id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title="720" tvg-id="M.L. CAMPEONES 3 " ,M.L. Campeones 3
-http://127.0.0.1:6878/ace/getstream?content_id=d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title="720" tvg-id="DAZN 1 HD" ,DAZN 1
 http://127.0.0.1:6878/ace/getstream?content_id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 group-title="720" tvg-id="DAZN 2 HD" ,DAZN 2
@@ -209,8 +211,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=e1fcad9de0c782c157fde6377805c5829
 http://127.0.0.1:6878/ace/getstream?content_id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="720" tvg-id="M. DEPORTES " ,M. Deportes
 http://127.0.0.1:6878/ace/getstream?content_id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="720" tvg-id="M.L. CAMPEONES " ,M.L. Campeones MultiAudio
-http://127.0.0.1:6878/ace/getstream?content_id=6b56c1de436327b49e429a702e81e9269630e37a
 #EXTINF:-1 group-title="Alemania" tvg-id="DAZN 1 BAR GER" ,DAZN 1 Bar [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="Alemania" tvg-id="DAZN 2 BAR GER" ,DAZN 2 Bar [DE]
