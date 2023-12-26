@@ -215,7 +215,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=6b56c1de436327b49e429a702e81e9269
 http://127.0.0.1:6878/ace/getstream?content_id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,DAZN 2 Bar [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="Alemania" tvg-id="otros" ,ZDF [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ZDF GER" ,ZDF [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,ATV [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=7d50d90895f44e97039eca21ae6bc17172acc9ef
@@ -227,13 +227,13 @@ http://127.0.0.1:6878/ace/getstream?content_id=f5d3ea421c4c067b5c90161a8ae4d9348
 http://127.0.0.1:6878/ace/getstream?content_id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,ORF Sport+ [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 group-title="Alemania" tvg-id="otros" ,SkySport F1 [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="Sky Sport F1 GER" ,SkySport F1 [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,Sport Digital [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,Sport1+HD [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 group-title="Alemania" tvg-id="otros" ,Servus TV [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="ServusTV GER" ,Servus TV [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,Motorvision TV [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=acd7e3ae185a376e6596e60a414bebbf3321b37f
@@ -311,13 +311,13 @@ http://127.0.0.1:6878/ace/getstream?content_id=3b1608a6d9d4d4dff4ec660006ef1ec2f
 http://127.0.0.1:6878/ace/getstream?content_id=9aa6e0e809fd88869cb7767b513cda5c422e310b
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,beIN SPORTS Ñ [US]
 http://127.0.0.1:6878/ace/getstream?content_id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,ESPN[US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="I206.10179.zap2it.com" ,ESPN[US]
 http://127.0.0.1:6878/ace/getstream?content_id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,ESPN 2[US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="I209.12444.zap2it.com" ,ESPN 2[US]
 http://127.0.0.1:6878/ace/getstream?content_id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,FOX Sports 1 [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="I219.82541.zap2it.com" ,FOX Sports 1 [US]
 http://127.0.0.1:6878/ace/getstream?content_id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,FOX Sports 2 [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="I618.33178.zap2it.com" ,FOX Sports 2 [US]
 http://127.0.0.1:6878/ace/getstream?content_id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,beIN Sports Xtra Ñ [US]
 http://127.0.0.1:6878/ace/getstream?content_id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
