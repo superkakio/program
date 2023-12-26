@@ -303,7 +303,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=2492f8aa7cd7c4800e7b22c4ecba05e34
 http://127.0.0.1:6878/ace/getstream?content_id=e40b29774fdfd953751a71f5695f647726623b9d
 #EXTINF:-1 group-title="Colombia" tvg-id="I263.79042.schedulesdirect.org" ,ESPN 3 [CO]
 http://127.0.0.1:6878/ace/getstream?content_id=b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 group-title="Colombia" tvg-id="I261.121144.schedulesdirect.org" ,ESPN EXTRA [CO]
+#EXTINF:-1 group-title="Colombia" tvg-id="otros" ,ESPN EXTRA [CO]
 http://127.0.0.1:6878/ace/getstream?content_id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Dinamarca" tvg-id="otros" ,TV2 Sport [DK]
 http://127.0.0.1:6878/ace/getstream?content_id=3b1608a6d9d4d4dff4ec660006ef1ec2f4e809ac
