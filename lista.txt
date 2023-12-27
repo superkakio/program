@@ -175,7 +175,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=6f3b2c65308024a24c4c0fa43837adc31
 http://127.0.0.1:6878/ace/getstream?content_id=583db6c2dfe06b5b245a53c1c04d57015a51af81
 #EXTINF:-1 group-title="UHD" tvg-id="La 1 HD" ,La 1 UHD
 http://127.0.0.1:6878/ace/getstream?content_id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="UHD" tvg-id="M+ LaLiga TV HD" ,M+ LaLiga TV UHD mas info grupo telegram
+#EXTINF:-1 group-title="UHD" tvg-id="M+ LaLiga TV HD" ,M+ LaLiga TV UHD
 http://127.0.0.1:6878/ace/getstream?content_id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="UHD" tvg-id="DAZN F1 4K" ,DAZN F1 4K
 http://127.0.0.1:6878/ace/getstream?content_id=6b94479c24898700089e6b87d28a3ccc72dc4041
