@@ -235,7 +235,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=5e94200ae8b1d95cb559fb150e5993d92
 http://127.0.0.1:6878/ace/getstream?content_id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 group-title="Alemania" tvg-id="ServusTV GER" ,Servus TV HD [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 group-title="Alemania" tvg-id="otros" ,Motorvision TV [DE]
+#EXTINF:-1 group-title="Alemania" tvg-id="MOTORVISION.TV" ,Motorvision TV [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 group-title="Alemania" tvg-id="otros" ,Magenta Sport 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?content_id=501141c649a2b78c4965cbf3257224181cc55072
@@ -319,7 +319,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=664eb5fe460b96941aed633959a845b18
 http://127.0.0.1:6878/ace/getstream?content_id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="I618.33178.zap2it.com" ,FOX Sports 2 HD [US]
 http://127.0.0.1:6878/ace/getstream?content_id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros" ,beIN Sports Xtra Ñ [US]
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="beIN SPORTS XTRA" ,beIN Sports Xtra Ñ [US]
 http://127.0.0.1:6878/ace/getstream?content_id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="I456.32281.schedulesdirect.org" ,NBA TV [US]
 http://127.0.0.1:6878/ace/getstream?content_id=e72d03fb9694164317260f684470be9ab781ed95
@@ -447,7 +447,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Portugal" tvg-id="Sport TV4 POR HD" ,Sport TV 4 [PT]
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
-#EXTINF:-1 group-title="Reino Unido" tvg-id="otros" ,BBC ONE [UK]
+#EXTINF:-1 group-title="Reino Unido" tvg-id="I106.69387.schedulesdirect.org" ,BBC ONE [UK]
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 #EXTINF:-1 group-title="Reino Unido" tvg-id="I1099.87578.schedulesdirect.org" ,Sky Sports F1[UK]
 http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
