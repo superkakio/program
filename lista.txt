@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD",M+ LaLiga TV
 http://127.0.0.1:6878/ace/getstream?content_id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD",M+ LaLiga TV MultiAudio
@@ -29,6 +29,8 @@ http://127.0.0.1:6878/ace/getstream?content_id=2792a8a5f4a3f53cd72dec377a2639cd1
 http://127.0.0.1:6878/ace/getstream?content_id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD",DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?content_id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD",DAZN LaLiga 2
+http://127.0.0.1:6878/ace/getstream?content_id=0950c37fe1ea817fc561c611ae943d58505f7a79
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/getstream?content_id=93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones MultiAudio
@@ -155,7 +157,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=5a236fbbe6e5bbfec03db548c244a7c85
 http://127.0.0.1:6878/ace/getstream?content_id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otros" tvg-id="Teledeporte",Teledeporte
 http://127.0.0.1:6878/ace/getstream?content_id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com",Tennis Channel
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Tennis Channel
 http://127.0.0.1:6878/ace/getstream?content_id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD",CUATRO
 http://127.0.0.1:6878/ace/getstream?content_id=e8eec35f4662be1af96963245bfa88fb7d0242c4
@@ -163,6 +165,8 @@ http://127.0.0.1:6878/ace/getstream?content_id=e8eec35f4662be1af96963245bfa88fb7
 http://127.0.0.1:6878/ace/getstream?content_id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD",Telecinco
 http://127.0.0.1:6878/ace/getstream?content_id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 group-title="Otros" tvg-id="otros",RFEF
+http://127.0.0.1:6878/ace/getstream?content_id=8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
 #EXTINF:-1 group-title="Otros" tvg-id="otros",F1 TV
 http://127.0.0.1:6878/ace/getstream?content_id=7088d4b32f4a7c0326765f13764417d038a4524d
 #EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV",Real Madrid TV
@@ -185,8 +189,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=f031f5728b32f6089dda28edebe990cf1
 http://127.0.0.1:6878/ace/getstream?content_id=80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga HD",DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?content_id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga 2 HD",DAZN LaLiga 2 MultiAudio
-http://127.0.0.1:6878/ace/getstream?content_id=0950c37fe1ea817fc561c611ae943d58505f7a79
 #EXTINF:-1 group-title="720" tvg-id="LaLiga TV Hypermotion HD",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/getstream?content_id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 group-title="720" tvg-id="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2
@@ -297,31 +299,31 @@ http://127.0.0.1:6878/ace/getstream?content_id=eb6b88840094f2cff5789235ca7282fce
 http://127.0.0.1:6878/ace/getstream?content_id=446e8d2d35c577c98083dad23004c29484377b16
 #EXTINF:-1 group-title="Bulgaria" tvg-id="otros",Diema Sport
 http://127.0.0.1:6878/ace/getstream?content_id=8c6a3a49e43b6d05ac93b83fe4a41660caffae01
-#EXTINF:-1 group-title="Colombia" tvg-id="I251.19158.schedulesdirect.org",ESPN
+#EXTINF:-1 group-title="Colombia" tvg-id="otros",ESPN
 http://127.0.0.1:6878/ace/getstream?content_id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Colombia" tvg-id="I256.37747.schedulesdirect.org",ESPN 2
+#EXTINF:-1 group-title="Colombia" tvg-id="otros",ESPN 2
 http://127.0.0.1:6878/ace/getstream?content_id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Colombia" tvg-id="I263.79042.schedulesdirect.org",ESPN 3
+#EXTINF:-1 group-title="Colombia" tvg-id="otros",ESPN 3
 http://127.0.0.1:6878/ace/getstream?content_id=b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 group-title="Colombia" tvg-id="I261.121144.schedulesdirect.org",ESPN EXTRA
+#EXTINF:-1 group-title="Colombia" tvg-id="otros",ESPN EXTRA
 http://127.0.0.1:6878/ace/getstream?content_id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Dinamarca" tvg-id="otros",TV2 Sport
 http://127.0.0.1:6878/ace/getstream?content_id=3b1608a6d9d4d4dff4ec660006ef1ec2f4e809ac
 #EXTINF:-1 group-title="Dinamarca" tvg-id="otros",TV2 Sport X
 http://127.0.0.1:6878/ace/getstream?content_id=9aa6e0e809fd88869cb7767b513cda5c422e310b
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I392.76942.zap2it.com",beIN SPORTS Ñ
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",beIN SPORTS Ñ
 http://127.0.0.1:6878/ace/getstream?content_id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I206.10179.zap2it.com",ESPN
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",ESPN
 http://127.0.0.1:6878/ace/getstream?content_id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I209.12444.zap2it.com",ESPN 2
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",ESPN 2
 http://127.0.0.1:6878/ace/getstream?content_id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I219.82541.zap2it.com",FOX Sports 1
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",FOX Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I618.33178.zap2it.com",FOX Sports 2
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",FOX Sports 2
 http://127.0.0.1:6878/ace/getstream?content_id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="beIN SPORTS XTRA",beIN Sports Xtra Ñ
 http://127.0.0.1:6878/ace/getstream?content_id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I456.32281.schedulesdirect.org",NBA TV
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",NBA TV
 http://127.0.0.1:6878/ace/getstream?content_id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 1 FRA",beIN Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
@@ -447,19 +449,19 @@ http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Portugal" tvg-id="Sport TV4 POR HD",Sport TV 4
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I106.69387.schedulesdirect.org",BBC ONE
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",BBC ONE
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1099.87578.schedulesdirect.org",Sky Sports F1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1108.49609.schedulesdirect.org",Sky Sports Main Event
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1116.116645.schedulesdirect.org",Sky Sports Premier League
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?content_id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1103.104327.schedulesdirect.org",Sky Sports Football
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Football
 http://127.0.0.1:6878/ace/getstream?content_id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Arena
 http://127.0.0.1:6878/ace/getstream?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1097.51204.schedulesdirect.org",Sky Sports Cricket
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Cricket
 http://127.0.0.1:6878/ace/getstream?content_id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",BT Sport 1
 http://127.0.0.1:6878/ace/getstream?content_id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
