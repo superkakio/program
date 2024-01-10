@@ -148,11 +148,13 @@ http://127.0.0.1:6878/ace/getstream?content_id=c373da9e901d414b7384e671112e64d5a
 #EXTINF:-1 group-title="EuroSport" tvg-id="otros",EuroSport Player
 http://127.0.0.1:6878/ace/getstream?content_id=d871578fc069de543d1ed8b5e63092d870bad8ee
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD",La 1
-http://127.0.0.1:6878/ace/getstream?content_id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+http://127.0.0.1:6878/ace/getstream?content_id=fa79d8cea5689da7a69a5afd833690f4aa544cd3
 #EXTINF:-1 group-title="Otros" tvg-id="La 2",La 2
 http://127.0.0.1:6878/ace/getstream?content_id=60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ HD",Movistar Plus+
 http://127.0.0.1:6878/ace/getstream?content_id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Otros" tvg-id="otros",SuperCopa
+http://127.0.0.1:6878/ace/getstream?content_id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY",GOL PLAY
 http://127.0.0.1:6878/ace/getstream?content_id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otros" tvg-id="Teledeporte",Teledeporte
@@ -169,6 +171,8 @@ http://127.0.0.1:6878/ace/getstream?content_id=bb1982ae8d2d409d4ccd7a9f498042684
 http://127.0.0.1:6878/ace/getstream?content_id=8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
 #EXTINF:-1 group-title="Otros" tvg-id="otros",F1 TV
 http://127.0.0.1:6878/ace/getstream?content_id=7088d4b32f4a7c0326765f13764417d038a4524d
+#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD",La 1
+http://127.0.0.1:6878/ace/getstream?content_id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 #EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV",Real Madrid TV
 http://127.0.0.1:6878/ace/getstream?content_id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 #EXTINF:-1 group-title="Otros" tvg-id="El Toro TV",El Toro TV
@@ -189,6 +193,8 @@ http://127.0.0.1:6878/ace/getstream?content_id=f031f5728b32f6089dda28edebe990cf1
 http://127.0.0.1:6878/ace/getstream?content_id=80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga HD",DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?content_id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="720" tvg-id="DAZN LaLiga 2 HD",DAZN LaLiga 2 MultiAudio
+http://127.0.0.1:6878/ace/getstream?content_id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="720" tvg-id="LaLiga TV Hypermotion HD",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/getstream?content_id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 group-title="720" tvg-id="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2
