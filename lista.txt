@@ -7,7 +7,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=7d8c87e057be98f00f22e23b23fbf0899
 http://127.0.0.1:6878/ace/getstream?content_id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD",M+ LaLiga TV 2
 http://127.0.0.1:6878/ace/getstream?content_id=26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="otros",M+ LaLiga TV 3
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD",M+ LaLiga TV 3
 http://127.0.0.1:6878/ace/getstream?content_id=4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4",M+ LaLiga TV 4
 http://127.0.0.1:6878/ace/getstream?content_id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
@@ -137,6 +137,8 @@ http://127.0.0.1:6878/ace/getstream?content_id=4f945b0ba4206fa2676b61e9eaa465ac3
 http://127.0.0.1:6878/ace/getstream?content_id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD",M+ Ellas Vamos
 http://127.0.0.1:6878/ace/getstream?content_id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="otros",Sky Sport Golf
+http://127.0.0.1:6878/ace/getstream?content_id=a5597a324630eb1b15cb48cf3d34238e732b04e2
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLiga TV BAR",LaLiga TV Bar
 http://127.0.0.1:6878/ace/getstream?content_id=512aeadf50d91603d15b32f1e408166536ec4ac9
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD",EuroSport 1
@@ -151,13 +153,13 @@ http://127.0.0.1:6878/ace/getstream?content_id=fa79d8cea5689da7a69a5afd833690f4a
 http://127.0.0.1:6878/ace/getstream?content_id=60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ HD",Movistar Plus+
 http://127.0.0.1:6878/ace/getstream?content_id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Otros" tvg-id="otros",SuperCopa
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Copa
 http://127.0.0.1:6878/ace/getstream?content_id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 group-title="Otros" tvg-id="otros",SuperCopa plus
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Copa plus
 http://127.0.0.1:6878/ace/getstream?content_id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="Otros" tvg-id="otros",SuperCopa MultiAudio
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Copa MultiAudio
 http://127.0.0.1:6878/ace/getstream?content_id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 group-title="Otros" tvg-id="otros",SuperCopa
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Copa
 http://127.0.0.1:6878/ace/getstream?content_id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY",GOL PLAY
 http://127.0.0.1:6878/ace/getstream?content_id=d4627f7b6b237a8556819445b3283d866caceca2
@@ -185,6 +187,40 @@ http://127.0.0.1:6878/ace/getstream?content_id=f763ab71f6f646e6c993f37e237be97ba
 http://127.0.0.1:6878/ace/getstream?content_id=6f3b2c65308024a24c4c0fa43837adc31ffb354d
 #EXTINF:-1 group-title="Otros" tvg-id="otros",F1 TV
 http://127.0.0.1:6878/ace/getstream?content_id=583db6c2dfe06b5b245a53c1c04d57015a51af81
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport Tennis
+http://127.0.0.1:6878/ace/getstream?content_id=89e380332cc52ae3b7774607fbf54813fb7f4dd7
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport Uno
+http://127.0.0.1:6878/ace/getstream?content_id=56de175b8323194667424e587414abb9fde5798a
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport24
+http://127.0.0.1:6878/ace/getstream?content_id=0286f071fee7bdf534c1602a371deb1f2b1b78e2
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport Arena
+http://127.0.0.1:6878/ace/getstream?content_id=b98fc0522f0442429f8c1f4216b2b06b593b33ae
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport NBA
+http://127.0.0.1:6878/ace/getstream?content_id=ee197f7428f5d4cc88f5e2c936b2f0d38a88e6b5
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 253
+http://127.0.0.1:6878/ace/getstream?content_id=d81e0348660810607cddef96f4fe6607df07e357
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 254
+http://127.0.0.1:6878/ace/getstream?content_id=04b33a5d2aa25014f2bc571e4dafe0869315ba32
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 255
+http://127.0.0.1:6878/ace/getstream?content_id=86696f544aa3703c38ba5c3168388a6a01d122c9
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 256
+http://127.0.0.1:6878/ace/getstream?content_id=89b4a4a438aee8e82510ecf7e1c03898ce45bb6b
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 257
+http://127.0.0.1:6878/ace/getstream?content_id=d9cde9a9f92782eb70b0f40c77e09bab20028503
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 258
+http://127.0.0.1:6878/ace/getstream?content_id=22e324fd2075244958e4d135ae9609b4b7de65a0
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 259
+http://127.0.0.1:6878/ace/getstream?content_id=7962e513884617f0150e1780fe62693de739777a
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport 260
+http://127.0.0.1:6878/ace/getstream?content_id=b1fd690a81e05244708e071c3c71e10ce11e894c
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Serie A Tim Femminile 2
+http://127.0.0.1:6878/ace/getstream?content_id=e37a1c7f19ff9ad44e67817ef8995529122f7d25
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Serie A Tim Femminile 3
+http://127.0.0.1:6878/ace/getstream?content_id=f533accb86b34b7ff10f823224a071f7677eae0d
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Serie A Tim Femminile 4
+http://127.0.0.1:6878/ace/getstream?content_id=8afd076fad74bd791924897d89b53d624295575c
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Serie A Tim Femminile 5
+http://127.0.0.1:6878/ace/getstream?content_id=23eebab7c07c435383e81f86cc29662702c7538a
 #EXTINF:-1 group-title="UHD" tvg-id="La 1 HD",La 1 UHD
 http://127.0.0.1:6878/ace/getstream?content_id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="UHD" tvg-id="M+ LaLiga TV HD",M+ LaLiga TV UHD
@@ -203,7 +239,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=02b9307c5c97c86914cc5939d6bbeb5b4
 http://127.0.0.1:6878/ace/getstream?content_id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 group-title="720" tvg-id="LaLiga TV Hypermotion 2",LaLiga TV Hypermotion 2
 http://127.0.0.1:6878/ace/getstream?content_id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="720" tvg-id="otros",SuperCopa
+#EXTINF:-1 group-title="720" tvg-id="otros",Copa
 http://127.0.0.1:6878/ace/getstream?content_id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 group-title="720" tvg-id="M+ Deportes HD",M+ Deportes
 http://127.0.0.1:6878/ace/getstream?content_id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
