@@ -174,13 +174,11 @@ http://127.0.0.1:6878/ace/getstream?content_id=5c267a00f264736c1d47c1cc3e754447c
 #EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD",Telecinco
 http://127.0.0.1:6878/ace/getstream?content_id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 group-title="Otros" tvg-id="otros",RFEF
-http://127.0.0.1:6878/ace/getstream?content_id=8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
+http://127.0.0.1:6878/ace/getstream?content_id=ee38ea1806129de000bd7925a5d52554d70bb560
 #EXTINF:-1 group-title="Otros" tvg-id="otros",RFEF
-http://127.0.0.1:6878/ace/getstream?content_id=9b4155893965f6930d5a73b093261952c4d207fd
-#EXTINF:-1 group-title="Otros" tvg-id="otros",RFEF
-http://127.0.0.1:6878/ace/getstream?content_id=ea954f97c49ee9d3189855e333630ed0323defa6
+http://127.0.0.1:6878/ace/getstream?content_id=76f48ddb3066dd67c1f73a1d847a392c8890032d
 #EXTINF:-1 group-title="Otros" tvg-id="otros",F1 TV
-http://127.0.0.1:6878/ace/getstream?content_id=7088d4b32f4a7c0326765f13764417d038a4524d
+http://127.0.0.1:6878/ace/getstream?content_id=8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD",La 1
 http://127.0.0.1:6878/ace/getstream?content_id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 #EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV",Real Madrid TV
@@ -188,9 +186,9 @@ http://127.0.0.1:6878/ace/getstream?content_id=0ec3f3786318acd8dca2588f74c3759cd
 #EXTINF:-1 group-title="Otros" tvg-id="El Toro TV",El Toro TV
 http://127.0.0.1:6878/ace/getstream?content_id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="Otros" tvg-id="otros",F1 TV
-http://127.0.0.1:6878/ace/getstream?content_id=6f3b2c65308024a24c4c0fa43837adc31ffb354d
+http://127.0.0.1:6878/ace/getstream?content_id=036102d0e1f12a0295816fabe4b0a891e174be0b
 #EXTINF:-1 group-title="Otros" tvg-id="otros",F1 TV
-http://127.0.0.1:6878/ace/getstream?content_id=583db6c2dfe06b5b245a53c1c04d57015a51af81
+http://127.0.0.1:6878/ace/getstream?content_id=d2b62dc65b7a4b0b9d448de93771580a5eadef6c
 #EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport Tennis
 http://127.0.0.1:6878/ace/getstream?content_id=89e380332cc52ae3b7774607fbf54813fb7f4dd7
 #EXTINF:-1 group-title="Otros" tvg-id="otros",Sky Sport Uno
@@ -499,10 +497,14 @@ http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Portugal" tvg-id="Sport TV4 POR HD",Sport TV 4
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
+#EXTINF:-1 group-title="Portugal" tvg-id="Sport TV4 POR HD",Sport TV 4
+http://127.0.0.1:6878/ace/getstream?content_id=ea6fc4bfdce607f25b9531c211f76fea16f2632c
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",BBC ONE
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports F1
+http://127.0.0.1:6878/ace/getstream?content_id=9d26a1fd9e0561786cbf3f3c3d0931a7e7bf8d54
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Premier League
