@@ -640,9 +640,9 @@ Eleven Sports 4 HD [PL]
 458a0ddd7d193f6d2750cd14d03a47f47a808e09
 Extreme Sports[PL]
 73ff07648e367efebd94636047b07625f664a082
-FightKlub HD
+FightKlub HD [PL]
 b73da828421018c98905ed05934b77ea35aa1b29
-TVP 1 Poland HD
+TVP 1 Poland HD [PL]
 d31d828052a432246e59e7d0d640bd55a64f1859
 Sport Klub HD[PL]
 35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
@@ -768,45 +768,45 @@ BT Sport 3 [UK]
 5f966c123759de46dff29c379266b7a403452033
 BT Sport 4 [UK]
 fc5089d8e1519872fdf951779ccbca913acc9bce
-F1 TV 1080
+F1 TV 1080 [GB]
 036102d0e1f12a0295816fabe4b0a891e174be0b
-F1 TV 1080
+F1 TV 1080 [GB]
 d2b62dc65b7a4b0b9d448de93771580a5eadef6c
-Sky Sport Tennis HD
+Sky Sport Tennis HD [IT]
 89e380332cc52ae3b7774607fbf54813fb7f4dd7
-Sky Sport Uno HD
+Sky Sport Uno HD [IT]
 56de175b8323194667424e587414abb9fde5798a
-Sky Sport24 HD
+Sky Sport24 HD [IT]
 0286f071fee7bdf534c1602a371deb1f2b1b78e2
-Sky Sport Arena HD
+Sky Sport Arena HD [IT]
 b98fc0522f0442429f8c1f4216b2b06b593b33ae
-Sky Sport Golf HD
+Sky Sport Golf HD [IT]
 a5597a324630eb1b15cb48cf3d34238e732b04e2
-Sky Sport NBA HD
+Sky Sport NBA HD [IT]
 ee197f7428f5d4cc88f5e2c936b2f0d38a88e6b5
-Sky Sport 253 HD
+Sky Sport 253 HD [IT]
 d81e0348660810607cddef96f4fe6607df07e357
-Sky Sport 254 HD
+Sky Sport 254 HD [IT]
 04b33a5d2aa25014f2bc571e4dafe0869315ba32
-Sky Sport 255 HD
+Sky Sport 255 HD [IT]
 86696f544aa3703c38ba5c3168388a6a01d122c9
-Sky Sport 256 HD
+Sky Sport 256 HD [IT]
 89b4a4a438aee8e82510ecf7e1c03898ce45bb6b
-Sky Sport 257 HD
+Sky Sport 257 HD [IT]
 d9cde9a9f92782eb70b0f40c77e09bab20028503
-Sky Sport 258 HD
+Sky Sport 258 HD [IT]
 22e324fd2075244958e4d135ae9609b4b7de65a0
-Sky Sport 259 HD
+Sky Sport 259 HD [IT]
 7962e513884617f0150e1780fe62693de739777a
-Sky Sport 260 HD
+Sky Sport 260 HD [IT]
 b1fd690a81e05244708e071c3c71e10ce11e894c
-Serie A Tim Femminile 2 HD
+Serie A Tim Femminile 2 HD [IT]
 e37a1c7f19ff9ad44e67817ef8995529122f7d25
-Serie A Tim Femminile 3 HD
+Serie A Tim Femminile 3 HD [IT]
 f533accb86b34b7ff10f823224a071f7677eae0d
-Serie A Tim Femminile 4 HD
+Serie A Tim Femminile 4 HD [IT]
 8afd076fad74bd791924897d89b53d624295575c
-Serie A Tim Femminile 5 HD
+Serie A Tim Femminile 5 HD [IT]
 23eebab7c07c435383e81f86cc29662702c7538a
 Eleven TR Sport [IT]
 154d111a97b7b18d1f64e9ae697c33c479d01e32
@@ -844,9 +844,9 @@ Milano Pavia TV [IT]
 0969a38e2b12d718f09e88e0925aed88f24a957b
 UniNettuno University TV [IT]
 4e17bac6b2decc70fd7bd704ce7013072fefd1f0
-ALL Sports
+ALL Sports [BR]
 7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
-ALL Sports
+ALL Sports [BR]
 28da796ff380e6ec2db451f064b25f8aa1323109
 TNT Sport 1[BR]
 a52d9a04f28c65ca4c1c1e1265c0b61e8e53f533
@@ -866,9 +866,9 @@ FOX Sports 1 HD [US]
 c9c062941fbecb16ce29437f346ea7177d720898
 FOX Sports 2 HD [US]
 cba8d369eac629b577750edb90370cd1c5fb03b7
-beIN Sports Xtra Ñ
+beIN Sports Xtra Ñ [US]
 92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-NBA TV
+NBA TV [US]
 e72d03fb9694164317260f684470be9ab781ed95
 ESPN [CO]
 2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
