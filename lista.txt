@@ -43,7 +43,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=1d79a7543d691666135669f89f3541f54
 http://127.0.0.1:6878/ace/getstream?content_id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/getstream?content_id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4",M+ Liga de Campeones 4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/getstream?content_id=f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 5
 http://127.0.0.1:6878/ace/getstream?content_id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
@@ -65,7 +65,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=33369549c635dabdb78b95c478c21fcc9
 http://127.0.0.1:6878/ace/getstream?content_id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones MultiAudio
 http://127.0.0.1:6878/ace/getstream?content_id=6b56c1de436327b49e429a702e81e9269630e37a
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4",M+ Liga de Campeones 4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/getstream?content_id=1b48d5881337c87b89e1edefff6688fe2271d222
 #EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 7
 http://127.0.0.1:6878/ace/getstream?content_id=d84a90adb6998083403f610ab3fae340b5711b1e
@@ -79,23 +79,23 @@ http://127.0.0.1:6878/ace/getstream?content_id=4c46585214b23b1d802ef2168060c7649
 http://127.0.0.1:6878/ace/getstream?content_id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 3",LaLiga TV Hypermotion 3
 http://127.0.0.1:6878/ace/getstream?content_id=bd2f7970c17f427ae92867e2eb86696dd7900a3e
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 4",LaLiga TV Hypermotion 4
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 4
 http://127.0.0.1:6878/ace/getstream?content_id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 5",LaLiga TV Hypermotion 5
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 5
 http://127.0.0.1:6878/ace/getstream?content_id=7a6f7c3acc3689c40f2300432723c55d41222af0
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 6",LaLiga TV Hypermotion 6
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 6
 http://127.0.0.1:6878/ace/getstream?content_id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 7",LaLiga TV Hypermotion 7
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 7
 http://127.0.0.1:6878/ace/getstream?content_id=b7e43c2c3887864193578eb57079955c50070f69
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 8",LaLiga TV Hypermotion 8
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 8
 http://127.0.0.1:6878/ace/getstream?content_id=11c89343be863cf2a69b3973747c629d9e79d7b8
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 9",LaLiga TV Hypermotion 9
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 9
 http://127.0.0.1:6878/ace/getstream?content_id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 10",LaLiga TV Hypermotion 10 
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 10 
 http://127.0.0.1:6878/ace/getstream?content_id=629222201d6e36cc0f4ab6244362de32bed783b2
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 11",LaLiga TV Hypermotion 11 
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 11 
 http://127.0.0.1:6878/ace/getstream?content_id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
-#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion 12",LaLiga TV Hypermotion 12
+#EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="otros",LaLiga TV Hypermotion 12
 http://127.0.0.1:6878/ace/getstream?content_id=7b975804279b0aa421496538ad21397cc06ddfb8
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD",DAZN 1
 http://127.0.0.1:6878/ace/getstream?content_id=8ca07071b39185431f8e940ec98d1add9e561639
@@ -155,6 +155,26 @@ http://127.0.0.1:6878/ace/getstream?content_id=d871578fc069de543d1ed8b5e63092d87
 http://127.0.0.1:6878/ace/getstream?content_id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="Otros" tvg-id="La 2",La 2
 http://127.0.0.1:6878/ace/getstream?content_id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="Otros" tvg-id="Teledeporte",Teledeporte
+http://127.0.0.1:6878/ace/getstream?content_id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro1
+http://127.0.0.1:6878/ace/getstream?content_id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro2
+http://127.0.0.1:6878/ace/getstream?content_id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro3
+http://127.0.0.1:6878/ace/getstream?content_id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro4
+http://127.0.0.1:6878/ace/getstream?content_id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro5
+http://127.0.0.1:6878/ace/getstream?content_id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro6
+http://127.0.0.1:6878/ace/getstream?content_id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro7
+http://127.0.0.1:6878/ace/getstream?content_id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro8
+http://127.0.0.1:6878/ace/getstream?content_id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Euro9
+http://127.0.0.1:6878/ace/getstream?content_id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 #EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ HD",Movistar Plus+
 http://127.0.0.1:6878/ace/getstream?content_id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Otros" tvg-id="otros",Copa
@@ -167,8 +187,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=3a4c8ac955d451bf3c29b45256e74aa0e
 http://127.0.0.1:6878/ace/getstream?content_id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY",GOL PLAY
 http://127.0.0.1:6878/ace/getstream?content_id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="Otros" tvg-id="Teledeporte",Teledeporte
-http://127.0.0.1:6878/ace/getstream?content_id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otros" tvg-id="Tennis Channel",Tennis Channel
 http://127.0.0.1:6878/ace/getstream?content_id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD",CUATRO
@@ -217,6 +235,8 @@ http://127.0.0.1:6878/ace/getstream?content_id=160b4b508a11f8c8b5c6e0e62ac04a437
 http://127.0.0.1:6878/ace/getstream?content_id=3a21b411e9b764efefc0c2166ca07f4655b3d31c
 #EXTINF:-1 group-title="UHD" tvg-id="La 1 HD",La 1 UHD
 http://127.0.0.1:6878/ace/getstream?content_id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+#EXTINF:-1 group-title="UHD" tvg-id="otros",Euro 4k
+http://127.0.0.1:6878/ace/getstream?content_id=63135c171f056d1d6028f9ffb1637ed704b88a20
 #EXTINF:-1 group-title="UHD" tvg-id="Eurosport 4K",Eurosport4k
 http://127.0.0.1:6878/ace/getstream?content_id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="720" tvg-id="M+ LaLiga TV HD",M+ LaLiga TV
