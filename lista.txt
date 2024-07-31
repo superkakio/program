@@ -543,19 +543,19 @@ http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04
 http://127.0.0.1:6878/ace/getstream?content_id=ea6fc4bfdce607f25b9531c211f76fea16f2632c
 #EXTINF:-1 group-title="Reino Unido" tvg-id="I105.69387.schedulesdirect.org",BBC ONE
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1102.87578.schedulesdirect.org",Sky Sports F1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports F1",Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1102.87578.schedulesdirect.org",Sky Sports F1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports F1",Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?content_id=9d26a1fd9e0561786cbf3f3c3d0931a7e7bf8d54
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1111.49609.schedulesdirect.org",Sky Sports Main Event
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky SportsMainEvent",Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1118.116645.schedulesdirect.org",Sky Sports Premier League
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Premier League",Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?content_id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1106.104327.schedulesdirect.org",Sky Sports Football
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Football",Sky Sports Football
 http://127.0.0.1:6878/ace/getstream?content_id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1095.104322.schedulesdirect.org",Sky Sports Arena
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Arena",Sky Sports Arena
 http://127.0.0.1:6878/ace/getstream?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I1100.51204.schedulesdirect.org",Sky Sports Cricket
+#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Cricket",Sky Sports Cricket
 http://127.0.0.1:6878/ace/getstream?content_id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",BT Sport 1
 http://127.0.0.1:6878/ace/getstream?content_id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
