@@ -519,17 +519,17 @@ http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb
 http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 3",Sport TV 3
 http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 1
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 1",Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 2
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 2",Eleven Sports 2
 http://127.0.0.1:6878/ace/getstream?content_id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 3
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 3",Eleven Sports 3
 http://127.0.0.1:6878/ace/getstream?content_id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 4
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 4",Eleven Sports 4
 http://127.0.0.1:6878/ace/getstream?content_id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 5
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 5",Eleven Sports 5
 http://127.0.0.1:6878/ace/getstream?content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 6
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 6",Eleven Sports 6
 http://127.0.0.1:6878/ace/getstream?content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 1",Sport TV 1
 http://127.0.0.1:6878/ace/getstream?content_id=c95422bc904378be0b035eba721d5e6a004f7d79
