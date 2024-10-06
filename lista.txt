@@ -39,39 +39,39 @@ http://127.0.0.1:6878/ace/getstream?content_id=931b1984badcb821df7b47a66ac0835ac
 http://127.0.0.1:6878/ace/getstream?content_id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 2
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/getstream?content_id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 3
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/getstream?content_id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/getstream?content_id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 5
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 5",M+ Liga de Campeones 5
 http://127.0.0.1:6878/ace/getstream?content_id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 6
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6",M+ Liga de Campeones 6
 http://127.0.0.1:6878/ace/getstream?content_id=64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 7
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7",M+ Liga de Campeones 7
 http://127.0.0.1:6878/ace/getstream?content_id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 8
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8",M+ Liga de Campeones 8
 http://127.0.0.1:6878/ace/getstream?content_id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 9
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9",M+ Liga de Campeones 9
 http://127.0.0.1:6878/ace/getstream?content_id=7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 10
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10",M+ Liga de Campeones 10
 http://127.0.0.1:6878/ace/getstream?content_id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 11
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 11",M+ Liga de Campeones 11
 http://127.0.0.1:6878/ace/getstream?content_id=e737c681a92a4328703761c6ed9d8a951655f3e4
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 12
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12",M+ Liga de Campeones 12
 http://127.0.0.1:6878/ace/getstream?content_id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 13
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 13",M+ Liga de Campeones 13
 http://127.0.0.1:6878/ace/getstream?content_id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=6b56c1de436327b49e429a702e81e9269630e37a
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/getstream?content_id=1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 7
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7",M+ Liga de Campeones 7
 http://127.0.0.1:6878/ace/getstream?content_id=d84a90adb6998083403f610ab3fae340b5711b1e
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 8
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8",M+ Liga de Campeones 8
 http://127.0.0.1:6878/ace/getstream?content_id=1a4b41c02e116ed19a505551a9caa79f54c027f7
-#EXTINF:-1 group-title="M+ Champions" tvg-id="otros",M+ Liga de Campeones 12
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12",M+ Liga de Campeones 12
 http://127.0.0.1:6878/ace/getstream?content_id=bb50397b3f49167eed95264005fae851baa7e3ee
 #EXTINF:-1 group-title="M+ LaLiga HyperMotion" tvg-id="LaLiga TV Hypermotion HD",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/getstream?content_id=4c46585214b23b1d802ef2168060c7649a3894cf
@@ -132,7 +132,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=8587ed8ac36ac477e1d4176d3159a38bd
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7",M+ Deportes 7
 http://127.0.0.1:6878/ace/getstream?content_id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD",M+ Golf
-http://127.0.0.1:6878/ace/getstream?content_id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
+http://127.0.0.1:6878/ace/getstream?content_id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD",M+ Golf 2
 http://127.0.0.1:6878/ace/getstream?content_id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD",M+ Ellas Vamos
@@ -239,7 +239,9 @@ http://127.0.0.1:6878/ace/getstream?content_id=3a21b411e9b764efefc0c2166ca07f465
 http://127.0.0.1:6878/ace/getstream?content_id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="UHD" tvg-id="otros",Euro 4k
 http://127.0.0.1:6878/ace/getstream?content_id=63135c171f056d1d6028f9ffb1637ed704b88a20
-#EXTINF:-1 group-title="UHD" tvg-id="Eurosport 4K",Eurosport4k
+#EXTINF:-1 group-title="UHD" tvg-id="M+ LaLiga TV HD",M+ LaLiga TV UHD
+http://127.0.0.1:6878/ace/getstream?content_id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title="UHD" tvg-id="otros",Eurosport4k
 http://127.0.0.1:6878/ace/getstream?content_id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="720" tvg-id="M+ LaLiga TV HD",M+ LaLiga TV
 http://127.0.0.1:6878/ace/getstream?content_id=f031f5728b32f6089dda28edebe990cf198108d8
@@ -257,9 +259,9 @@ http://127.0.0.1:6878/ace/getstream?content_id=dab7cab5d6d177df36c3b333ca363c226
 http://127.0.0.1:6878/ace/getstream?content_id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 group-title="720" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?content_id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="720" tvg-id="otros",M+ Liga de Campeones 2
+#EXTINF:-1 group-title="720" tvg-id="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/getstream?content_id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title="720" tvg-id="otros",M+ Liga de Campeones 3
+#EXTINF:-1 group-title="720" tvg-id="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/getstream?content_id=d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title="720" tvg-id="DAZN 1 HD",DAZN 1
 http://127.0.0.1:6878/ace/getstream?content_id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
@@ -269,11 +271,11 @@ http://127.0.0.1:6878/ace/getstream?content_id=7aa402bab9fff43258fbcf401881a3947
 http://127.0.0.1:6878/ace/getstream?content_id=e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="720" tvg-id="otros",Barça
 http://127.0.0.1:6878/ace/getstream?content_id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Alemania" tvg-id="DAZN 1 GER",DAZN 1 Bar
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",DAZN 1 Bar
 http://127.0.0.1:6878/ace/getstream?content_id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="Alemania" tvg-id="DAZN 2 GER",DAZN 2 Bar
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",DAZN 2 Bar
 http://127.0.0.1:6878/ace/getstream?content_id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="Alemania" tvg-id="ZDF GER",ZDF
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",ZDF
 http://127.0.0.1:6878/ace/getstream?content_id=c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",ATV
 http://127.0.0.1:6878/ace/getstream?content_id=7d50d90895f44e97039eca21ae6bc17172acc9ef
@@ -285,15 +287,15 @@ http://127.0.0.1:6878/ace/getstream?content_id=f5d3ea421c4c067b5c90161a8ae4d9348
 http://127.0.0.1:6878/ace/getstream?content_id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",ORF Sport+
 http://127.0.0.1:6878/ace/getstream?content_id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 group-title="Alemania" tvg-id="Sky Sport F1 GER",SkySport F1
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",SkySport F1
 http://127.0.0.1:6878/ace/getstream?content_id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Sport Digital
 http://127.0.0.1:6878/ace/getstream?content_id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 group-title="Alemania" tvg-id="SPORT1+",Sport1+HD
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",Sport1+HD
 http://127.0.0.1:6878/ace/getstream?content_id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Servus TV
 http://127.0.0.1:6878/ace/getstream?content_id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 group-title="Alemania" tvg-id="MOTORVISION.TV",Motorvision TV
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",Motorvision TV
 http://127.0.0.1:6878/ace/getstream?content_id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Magenta Sport 1
 http://127.0.0.1:6878/ace/getstream?content_id=501141c649a2b78c4965cbf3257224181cc55072
@@ -317,9 +319,9 @@ http://127.0.0.1:6878/ace/getstream?content_id=86495fe134ff065d5217497babe6be33f
 http://127.0.0.1:6878/ace/getstream?content_id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Magenta Sport 11
 http://127.0.0.1:6878/ace/getstream?content_id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 group-title="Alemania" tvg-id="Eurosport 1 GER",Eurosport 1
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",Eurosport 1
 http://127.0.0.1:6878/ace/getstream?content_id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title="Alemania" tvg-id="Eurosport 2 GER",Eurosport 2
+#EXTINF:-1 group-title="Alemania" tvg-id="otros",Eurosport 2
 http://127.0.0.1:6878/ace/getstream?content_id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Eurosport360 1
 http://127.0.0.1:6878/ace/getstream?content_id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
@@ -381,11 +383,11 @@ http://127.0.0.1:6878/ace/getstream?content_id=cba8d369eac629b577750edb90370cd1c
 http://127.0.0.1:6878/ace/getstream?content_id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="I156.32281.zap2it.com",NBA TV
 http://127.0.0.1:6878/ace/getstream?content_id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 1 FRA",beIN Sports 1
+#EXTINF:-1 group-title="Francia" tvg-id="otros",beIN Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 2 FRA",beIN Sports 2
+#EXTINF:-1 group-title="Francia" tvg-id="otros",beIN Sports 2
 http://127.0.0.1:6878/ace/getstream?content_id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="Francia" tvg-id="BEIN SPORTS 3 FRA",beIN Sports 3
+#EXTINF:-1 group-title="Francia" tvg-id="otros",beIN Sports 3
 http://127.0.0.1:6878/ace/getstream?content_id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="Holanda" tvg-id="otros",ESPN
 http://127.0.0.1:6878/ace/getstream?content_id=e2044fd44478794ebfe721deb060d149507f1348
@@ -521,17 +523,17 @@ http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb
 http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 3",Sport TV 3
 http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 1",Eleven Sports 1
+#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 2",Eleven Sports 2
+#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 2
 http://127.0.0.1:6878/ace/getstream?content_id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 3",Eleven Sports 3
+#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 3
 http://127.0.0.1:6878/ace/getstream?content_id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 4",Eleven Sports 4
+#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 4
 http://127.0.0.1:6878/ace/getstream?content_id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 5",Eleven Sports 5
+#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 5
 http://127.0.0.1:6878/ace/getstream?content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 6",Eleven Sports 6
+#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 6
 http://127.0.0.1:6878/ace/getstream?content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 1",Sport TV 1
 http://127.0.0.1:6878/ace/getstream?content_id=c95422bc904378be0b035eba721d5e6a004f7d79
@@ -543,21 +545,21 @@ http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944
 http://127.0.0.1:6878/ace/getstream?content_id=a600f739438c1b47725617d7a4cc05a04a890e10
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 4",Sport TV 4
 http://127.0.0.1:6878/ace/getstream?content_id=ea6fc4bfdce607f25b9531c211f76fea16f2632c
-#EXTINF:-1 group-title="Reino Unido" tvg-id="I105.69387.schedulesdirect.org",BBC ONE
+#EXTINF:-1 group-title="Reino Unido" tvg-id="I128.69387.schedulesdirect.org",BBC ONE
 http://127.0.0.1:6878/ace/getstream?content_id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports F1",Sky Sports F1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?content_id=8afb62049f30ba4fb4a74c0c4165313d40b20ccb
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports F1",Sky Sports F1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports F1
 http://127.0.0.1:6878/ace/getstream?content_id=9d26a1fd9e0561786cbf3f3c3d0931a7e7bf8d54
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky SportsMainEvent",Sky Sports Main Event
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Premier League",Sky Sports Premier League
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?content_id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Football",Sky Sports Football
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Football
 http://127.0.0.1:6878/ace/getstream?content_id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Arena",Sky Sports Arena
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Arena
 http://127.0.0.1:6878/ace/getstream?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Reino Unido" tvg-id="UK | Sky Sports Cricket",Sky Sports Cricket
+#EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Cricket
 http://127.0.0.1:6878/ace/getstream?content_id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",BT Sport 1
 http://127.0.0.1:6878/ace/getstream?content_id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
