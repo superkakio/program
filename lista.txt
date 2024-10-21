@@ -295,7 +295,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=5e94200ae8b1d95cb559fb150e5993d92
 http://127.0.0.1:6878/ace/getstream?content_id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Servus TV
 http://127.0.0.1:6878/ace/getstream?content_id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 group-title="Alemania" tvg-id="otros",Motorvision TV
+#EXTINF:-1 group-title="Alemania" tvg-id="Motorvision",Motorvision TV
 http://127.0.0.1:6878/ace/getstream?content_id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 group-title="Alemania" tvg-id="otros",Magenta Sport 1
 http://127.0.0.1:6878/ace/getstream?content_id=501141c649a2b78c4965cbf3257224181cc55072
