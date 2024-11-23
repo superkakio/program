@@ -145,17 +145,17 @@ http://127.0.0.1:6878/ace/getstream?content_id=35c7f0c966ecde3390f4510bb4caded40
 http://127.0.0.1:6878/ace/getstream?content_id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 group-title="720" tvg-id="DAZN F1 HD",DAZN F1
 http://127.0.0.1:6878/ace/getstream?content_id=268289e7a3c5209960b53b4d43c8c65fab294b85
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 1
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 1",Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 2
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 2",Eleven Sports 2
 http://127.0.0.1:6878/ace/getstream?content_id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 3
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 3",Eleven Sports 3
 http://127.0.0.1:6878/ace/getstream?content_id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 4
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 4",Eleven Sports 4
 http://127.0.0.1:6878/ace/getstream?content_id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 5
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 5",Eleven Sports 5
 http://127.0.0.1:6878/ace/getstream?content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 6
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 6",Eleven Sports 6
 http://127.0.0.1:6878/ace/getstream?content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 1",Sport TV 1
 http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb9e806de
