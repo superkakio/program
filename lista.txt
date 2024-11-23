@@ -145,12 +145,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=35c7f0c966ecde3390f4510bb4caded40
 http://127.0.0.1:6878/ace/getstream?content_id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 group-title="720" tvg-id="DAZN F1 HD",DAZN F1
 http://127.0.0.1:6878/ace/getstream?content_id=268289e7a3c5209960b53b4d43c8c65fab294b85
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 1",Sport TV 1
-http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 2",Sport TV 2
-http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 3",Sport TV 3
-http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 2
@@ -164,9 +158,15 @@ http://127.0.0.1:6878/ace/getstream?content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cc
 #EXTINF:-1 group-title="Portugal" tvg-id="otros",Eleven Sports 6
 http://127.0.0.1:6878/ace/getstream?content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 1",Sport TV 1
+http://127.0.0.1:6878/ace/getstream?content_id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 1",Sport TV 1
 http://127.0.0.1:6878/ace/getstream?content_id=c95422bc904378be0b035eba721d5e6a004f7d79
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 2",Sport TV 2
+http://127.0.0.1:6878/ace/getstream?content_id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 2",Sport TV 2
 http://127.0.0.1:6878/ace/getstream?content_id=a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 3",Sport TV 3
+http://127.0.0.1:6878/ace/getstream?content_id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 3",Sport TV 3
 http://127.0.0.1:6878/ace/getstream?content_id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | Sport TV 4",Sport TV 4
