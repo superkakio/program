@@ -105,6 +105,10 @@ http://127.0.0.1:6878/ace/getstream?content_id=61b9b271c16f970aab43cb753c5f8be18
 http://127.0.0.1:6878/ace/getstream?content_id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title="Otros" tvg-id="otros",Copa
 http://127.0.0.1:6878/ace/getstream?content_id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD",Telecinco
+http://127.0.0.1:6878/ace/getstream?content_id=66a7e4727bccce8ccc04e54861b06b62d89452fa
+#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD",Telecinco
+http://127.0.0.1:6878/ace/getstream?content_id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
 #EXTINF:-1 group-title="Otros" tvg-id="otros",PPVP 1
 http://127.0.0.1:6878/ace/getstream?content_id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="Otros" tvg-id="otros",PPVP 2
