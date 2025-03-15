@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="otros",name": "Canal 2 (1RFEF) (solo eventos) --> NEW ERA V
+#EXTINF:-1 group-title="Otros" tvg-id="otros",Canal 2 (1RFEF) (solo eventos) --> NEW ERA V
 http://127.0.0.1:6878/ace/getstream?content_id=8677d339ecddd75165c0015025f598b6215974cf
 
 #EXTINF:-1 group-title="Portugal" tvg-id="PT | DAZN 1",DAZN 1
