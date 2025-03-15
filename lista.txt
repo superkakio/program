@@ -222,11 +222,11 @@ http://127.0.0.1:6878/ace/getstream?content_id=95120cee8223e9af839994ecc2b96aef0
 #EXTINF:-1 group-title="EuroSport" tvg-id="otros",EUROSPORT 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?content_id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 #EXTINF:-1 group-title="EuroSport" tvg-id="otros",Eurosport 1 --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?content_id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+http://127.0.0.1:6878/ace/getstream?content_id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 group-title="EuroSport" tvg-id="otros",Eurosport 1 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=6579c8a3441b6c27caf0508b33fd571b76bac538
 #EXTINF:-1 group-title="EuroSport" tvg-id="otros",Eurosport 1 --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?content_id=cfa75ade53810dac64411b22d56c3d4582a221d3
+http://127.0.0.1:6878/ace/getstream?content_id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 group-title="EuroSport" tvg-id="otros",Eurosport 1 hd --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 group-title="Otros" tvg-id="otros",M+ COMEDIA FHD --> NEW ERA II
@@ -321,10 +321,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=bba1905fcd1c4975aec544047bf8e4cd2
 http://127.0.0.1:6878/ace/getstream?content_id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 group-title="Otros" tvg-id="otros",BeIN Sports 3 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 group-title="Otros" tvg-id="otros",BeinSportsXtraÑ --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?content_id=4922d8414b6d96bcdd36e99483a7077f484b6f71
-#EXTINF:-1 group-title="Otros" tvg-id="otros",beIN SPORTS XTRA --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?content_id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 group-title="Otros" tvg-id="otros",Eleven Sports 1 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="Otros" tvg-id="otros",Eleven Sports 2 --> NEW LOOP
@@ -371,8 +367,6 @@ http://127.0.0.1:6878/ace/getstream?content_id=8091334c82e8720fc6aa05ff0bd6d343c
 http://127.0.0.1:6878/ace/getstream?content_id=c8aac540621d481965791c4442a7e868bcca10ca
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",ESPN --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",ESPN2 --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?content_id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Arena --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 group-title="Reino Unido" tvg-id="otros",Sky Sports Cricket --> NEW LOOP
