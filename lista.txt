@@ -363,7 +363,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=0a335406bad0b658aeddb2d38f8c0614b
 http://127.0.0.1:6878/ace/getstream?content_id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 group-title="720" tvg-id="otros",Tennis Channel (UK) (720) --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="I456.32281.schedulesdirect.org",NBA TV
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="I156.32281.gracenote.com",NBA TV
 http://127.0.0.1:6878/ace/getstream?content_id=c8aac540621d481965791c4442a7e868bcca10ca
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="otros",ESPN --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?content_id=4b4907de51ec11087d4bed5876f2a0c68264f442
