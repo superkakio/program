@@ -11,7 +11,7 @@ var diccionario = "traduccion1";
 var filas;
 
 
-const worker = new Worker("worker.sql-wasm.js");
+const worker = new Worker("https://github.com/superkakio/program/blob/main/worker.sql-wasm.js");
 worker.onerror = error;
 
 function error(e) {
