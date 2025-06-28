@@ -43,6 +43,7 @@ dbFileElm.onchange = function() {
 	  r.onload = function() {
 	    worker.onmessage = function () {
 		  toc("Loading database from file");
+		  console.log("cargando base de datos")
 		};
 		tic();   
 		try {
