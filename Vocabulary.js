@@ -10,7 +10,7 @@ var logo = document.getElementById('logo');
 var diccionario = "traduccion1";
 var filas;
 
-
+console.log("Cargando javascript Vocabulary");
 const worker = new Worker("https://github.com/superkakio/program/blob/main/worker.sql-wasm.js");
 worker.onerror = error;
 
