@@ -29,8 +29,6 @@ http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 http://127.0.0.1:6878/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 31d9 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 0476 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 3a57 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="DE | Sky Sport Bundesliga 3" group-title="BUNDESLIGA", BUNDESLIGA 3 FHD 9564 --> NEW ERA
@@ -123,6 +121,8 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD 24e3 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD 1ecc --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD 7031 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD f8bf --> NEW ERA VI
@@ -427,6 +427,8 @@ http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD ab78 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", MOVISTAR PLUS 2 FHD e09c --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", MOVISTAR PLUS 2 FHD 7003 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD 7312 --> NEW ERA III
@@ -517,8 +519,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS SD b785 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="NBA", NBA TV 8073 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 2" group-title="SPORT TV", beIN SPORTS HD 2 (TR) 1a05 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 3" group-title="SPORT TV", beIN SPORTS HD 3 (TR) 4d62 --> SPORT TV
