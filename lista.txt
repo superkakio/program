@@ -288,7 +288,7 @@ section > .grid.dag > div:nth-of-type(2n+1) {
                 The content that you requested has been blocked because of legal, abuse, malware or security reasons.
             </p>
             <p>
-                If you feel that this content has been blocked in error, please contact <a href="/cdn-cgi/l/email-protection#78191a0d0b1d3811081e0b561117"><span class="__cf_email__" data-cfemail="ceafacbbbdab8ea7bea8bde0a7a1">[email&#160;protected]</span></a>.
+                If you feel that this content has been blocked in error, please contact <a href="/cdn-cgi/l/email-protection#dcbdbea9afb99cb5acbaaff2b5b3"><span class="__cf_email__" data-cfemail="84e5e6f1f7e1c4edf4e2f7aaedeb">[email&#160;protected]</span></a>.
                 Include the full URL and, if applicable, the reason why it should not be blocked.
             </p>
         </section>
